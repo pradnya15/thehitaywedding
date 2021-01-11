@@ -2152,3 +2152,24 @@ margin-left: -15px;}
   text-transform: uppercase;
 }
 /**** Timeline *****/
+
+@media (max-width:480px){
+.m-center{
+  text-align: center;
+}
+#timer2 .col-6{
+  margin-bottom: 20px;
+}
+.m-mt-20{
+  margin-top: 20px;
+}
+ul.timeline:before{
+  display: none;
+}
+ul.timeline > li > .timeline-panel{
+  width:100%
+}
+#intro h2{
+  font-size: 50px;
+}
+}
