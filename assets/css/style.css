@@ -1010,7 +1010,21 @@ ul.social-link li a:hover {
   margin-bottom: 0.6em;
   font-family: 'Great Vibes', cursive;
 }
-
+.fontrunny{
+  font-family: 'Great Vibes', cursive;
+}
+.font-lg{
+  font-size: 35px;
+}
+.friends h5{
+  font-weight: 500;
+    font-size: 16px;
+    color: #252525;
+    margin: 7px 0;
+}
+.friends img{
+  border-radius: 5px;
+}
 #celebrate h2 {
   font-size: 60px;font-family: 'Lora', serif;
   line-height: 70px;
